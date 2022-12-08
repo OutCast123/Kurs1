@@ -1,0 +1,11 @@
+C:\Users\Straleks\Desktop\Miner-master\Miner\bin\Debug\Miner.exe.config
+C:\Users\Straleks\Desktop\Miner-master\Miner\bin\Debug\Miner.exe
+C:\Users\Straleks\Desktop\Miner-master\Miner\bin\Debug\Miner.pdb
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.csproj.AssemblyReference.cache
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.Form1.resources
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.exe
+C:\Users\Straleks\Desktop\Miner-master\Miner\obj\Debug\Miner.pdb
